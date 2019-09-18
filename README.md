@@ -1,1 +1,1 @@
-# gatsby-test
+# gatsby-sample
